@@ -1,0 +1,90 @@
+
+  {
+    "Mumbai": [
+        { "latitude": 19.0780, "longitude": 72.8777, "description": "Domestic Violence", "severity": "High", "inDepth": "Victim sought assistance after repeated incidents." },
+        { "latitude": 19.0970, "longitude": 72.8350, "description": "Robbery", "severity": "Medium", "inDepth": "Handbag snatched from a woman on the street." },
+        { "latitude": 19.0250, "longitude": 72.8340, "description": "Sexual Assault", "severity": "Very High", "inDepth": "Victim reported an attack while walking home." },
+        { "latitude": 19.1070, "longitude": 72.8290, "description": "Kidnapping", "severity": "Critical", "inDepth": "Young woman abducted from public transport." },
+        { "latitude": 19.0760, "longitude": 72.8777, "description": "Harassment", "severity": "Medium", "inDepth": "Victim faced unwanted advances in a crowded area." },
+        { "latitude": 19.1120, "longitude": 72.8290, "description": "Stalking", "severity": "Medium", "inDepth": "Persistent following reported." },
+        { "latitude": 19.0865, "longitude": 72.8420, "description": "Robbery", "severity": "Low", "inDepth": "Bag taken at night market." },
+        { "latitude": 19.0655, "longitude": 72.8710, "description": "Harassment", "severity": "High", "inDepth": "Multiple cases at workplace." },
+        { "latitude": 19.0560, "longitude": 72.8390, "description": "Assault", "severity": "Medium", "inDepth": "Victim was attacked in a quiet lane." },
+        { "latitude": 19.0350, "longitude": 72.8390, "description": "Attempted Kidnapping", "severity": "Critical", "inDepth": "Woman narrowly escaped an abduction attempt." }
+    ],
+    "Chennai": [
+        { "latitude": 13.0550, "longitude": 80.2740, "description": "Sexual Assault", "severity": "Very High", "inDepth": "Assault occurred in a parking area." },
+        { "latitude": 13.0570, "longitude": 80.3090, "description": "Domestic Violence", "severity": "High", "inDepth": "Victim reported threats from partner." },
+        { "latitude": 13.0590, "longitude": 80.3120, "description": "Harassment", "severity": "Medium", "inDepth": "Persistent stalking reported by local woman." },
+        { "latitude": 13.0465, "longitude": 80.3135, "description": "Robbery", "severity": "Medium", "inDepth": "Valuables taken during a night out." },
+        { "latitude": 13.0525, "longitude": 80.3105, "description": "Kidnapping", "severity": "Critical", "inDepth": "Incident involving a young woman reported." },
+        { "latitude": 13.0475, "longitude": 80.3090, "description": "Assault", "severity": "High", "inDepth": "Incident in a busy area with no witnesses." },
+        { "latitude": 13.0480, "longitude": 80.3150, "description": "Sexual Harassment", "severity": "High", "inDepth": "Victim reported unwanted advances." },
+        { "latitude": 13.0500, "longitude": 80.3050, "description": "Robbery", "severity": "Medium", "inDepth": "Valuables taken from vehicle." },
+        { "latitude": 13.0600, "longitude": 80.3100, "description": "Stalking", "severity": "Medium", "inDepth": "Victim was followed multiple times." },
+        { "latitude": 13.0535, "longitude": 80.3075, "description": "Harassment", "severity": "High", "inDepth": "Incident reported in a shopping area." }
+    ],
+    "Madurai": [
+        { "latitude": 9.9252, "longitude": 78.1198, "description": "Sexual Assault", "severity": "Very High", "inDepth": "Reported assault in a public place." },
+        { "latitude": 9.9275, "longitude": 78.1135, "description": "Domestic Violence", "severity": "High", "inDepth": "Repeated abuse reported by victim." },
+        { "latitude": 9.9300, "longitude": 78.1180, "description": "Harassment", "severity": "Medium", "inDepth": "Incident at a bus station." },
+        { "latitude": 9.9225, "longitude": 78.1105, "description": "Robbery", "severity": "Medium", "inDepth": "Victim's belongings stolen." },
+        { "latitude": 9.9280, "longitude": 78.1150, "description": "Kidnapping", "severity": "Critical", "inDepth": "Young woman abducted in crowded area." },
+        { "latitude": 9.9245, "longitude": 78.1110, "description": "Harassment", "severity": "High", "inDepth": "Victim faced verbal threats." },
+        { "latitude": 9.9270, "longitude": 78.1095, "description": "Stalking", "severity": "Medium", "inDepth": "Repeated incidents in a marketplace." },
+        { "latitude": 9.9295, "longitude": 78.1170, "description": "Sexual Harassment", "severity": "Very High", "inDepth": "Incident reported on college campus." }
+    ],
+    "Bangalore": [
+        { "latitude": 12.9716, "longitude": 77.5946, "description": "Sexual Assault", "severity": "Very High", "inDepth": "Victim attacked near her home." },
+        { "latitude": 12.9660, "longitude": 77.6060, "description": "Domestic Violence", "severity": "High", "inDepth": "Victim reported severe injuries." },
+        { "latitude": 12.9675, "longitude": 77.5900, "description": "Harassment", "severity": "Medium", "inDepth": "Young woman harassed online." },
+        { "latitude": 12.9710, "longitude": 77.6000, "description": "Kidnapping", "severity": "Critical", "inDepth": "Incident involved a public transport abduction." },
+        { "latitude": 12.9590, "longitude": 77.6105, "description": "Robbery", "severity": "Medium", "inDepth": "Jewelry stolen during public event." },
+        { "latitude": 12.9750, "longitude": 77.6030, "description": "Assault", "severity": "High", "inDepth": "Woman reported being assaulted by a passerby." },
+        { "latitude": 12.9600, "longitude": 77.6200, "description": "Harassment", "severity": "Medium", "inDepth": "Unwanted advances by an acquaintance." },
+        { "latitude": 12.9650, "longitude": 77.6085, "description": "Stalking", "severity": "Medium", "inDepth": "Incident in a local shopping area." },
+        { "latitude": 12.9725, "longitude": 77.6090, "description": "Attempted Robbery", "severity": "Medium", "inDepth": "Victim managed to evade robber." },
+        { "latitude": 12.9735, "longitude": 77.6010, "description": "Sexual Harassment", "severity": "High", "inDepth": "Incident reported on local bus." }
+    ],
+    "Hyderabad": [
+        { "latitude": 17.3850, "longitude": 78.4867, "description": "Sexual Assault", "severity": "Very High", "inDepth": "Assault occurred at a local festival." },
+        { "latitude": 17.3890, "longitude": 78.4745, "description": "Harassment", "severity": "Medium", "inDepth": "Victim reported being followed home." },
+        { "latitude": 17.3875, "longitude": 78.5100, "description": "Domestic Violence", "severity": "High", "inDepth": "Local authorities were alerted by neighbors." },
+        { "latitude": 17.3895, "longitude": 78.4950, "description": "Kidnapping", "severity": "Critical", "inDepth": "Woman reported being taken from a bus." },
+        { "latitude": 17.3920, "longitude": 78.4900, "description": "Robbery", "severity": "Medium", "inDepth": "Incident occurred during evening hours." },
+        { "latitude": 17.3900, "longitude": 78.4800, "description": "Sexual Harassment", "severity": "High", "inDepth": "Incident reported near the city park." },
+        { "latitude": 17.3830, "longitude": 78.4870, "description": "Assault", "severity": "Medium", "inDepth": "Victim reported being pushed and verbally threatened." },
+        { "latitude": 17.3880, "longitude": 78.4850, "description": "Harassment", "severity": "Medium", "inDepth": "Multiple reports of harassment on public transport." },
+        { "latitude": 17.3845, "longitude": 78.4780, "description": "Stalking", "severity": "High", "inDepth": "Persistent following of multiple women reported." }
+    ],
+    "Pune": [
+      { "latitude": 18.5204, "longitude": 73.8567, "description": "Sexual Assault", "severity": "Very High", "inDepth": "Incident occurred in a crowded marketplace." },
+      { "latitude": 18.5225, "longitude": 73.8620, "description": "Domestic Violence", "severity": "High", "inDepth": "Victim has faced ongoing threats." },
+      { "latitude": 18.5245, "longitude": 73.8535, "description": "Harassment", "severity": "Medium", "inDepth": "Victim faced intimidation from a known person." },
+      { "latitude": 18.5260, "longitude": 73.8510, "description": "Kidnapping", "severity": "Critical", "inDepth": "Teenager reported missing; police investigation ongoing." },
+      { "latitude": 18.5200, "longitude": 73.8505, "description": "Robbery", "severity": "Medium", "inDepth": "Woman's wallet taken while on a walk." }
+    ],
+    "Lucknow": [
+      { "latitude": 26.8470, "longitude": 80.9462, "description": "Domestic Violence", "severity": "High", "inDepth": "Victim sought shelter after abusive relationship." },
+      { "latitude": 26.8200, "longitude": 80.9230, "description": "Sexual Assault", "severity": "Very High", "inDepth": "Reported near a public transportation hub." },
+      { "latitude": 26.8600, "longitude": 80.9390, "description": "Harassment", "severity": "Medium", "inDepth": "Woman faced threats on social media." },
+      { "latitude": 26.8300, "longitude": 80.9345, "description": "Robbery", "severity": "Medium", "inDepth": "Assailant targeted women at ATM." },
+      { "latitude": 26.8430, "longitude": 80.9320, "description": "Kidnapping", "severity": "Very High", "inDepth": "Woman reported taken from her home." }
+    ],
+    "Delhi": [
+      { "latitude": 28.6519, "longitude": 77.2315, "description": "Sexual Assault", "severity": "Very High", "inDepth": "Incident reported near popular shopping district." },
+      { "latitude": 28.6345, "longitude": 77.2170, "description": "Domestic Violence", "severity": "High", "inDepth": "Family dispute escalated, requiring police intervention." },
+      { "latitude": 28.6180, "longitude": 77.2245, "description": "Harassment", "severity": "Medium", "inDepth": "Repeated complaints against a local vendor." },
+      { "latitude": 28.6350, "longitude": 77.2490, "description": "Kidnapping", "severity": "Critical", "inDepth": "Victim reported abduction from public space." },
+      { "latitude": 28.6175, "longitude": 77.2040, "description": "Robbery", "severity": "Medium", "inDepth": "Woman's purse snatched while walking." }
+    ],
+    "Ahmedabad": [
+      { "latitude": 23.0225, "longitude": 72.5714, "description": "Sexual Assault", "severity": "Very High", "inDepth": "Incident reported near a college campus." },
+      { "latitude": 23.0195, "longitude": 72.5605, "description": "Domestic Violence", "severity": "High", "inDepth": "Local NGO provided support to the victim." },
+      { "latitude": 23.0205, "longitude": 72.5665, "description": "Harassment", "severity": "Medium", "inDepth": "Repeated complaints from several women in the area." },
+      { "latitude": 23.0230, "longitude": 72.5780, "description": "Kidnapping", "severity": "Critical", "inDepth": "Incident reported in a densely populated area." },
+      { "latitude": 23.0210, "longitude": 72.5795, "description": "Robbery", "severity": "Medium", "inDepth": "Victim attacked while shopping." }
+    ]
+}
+
+  

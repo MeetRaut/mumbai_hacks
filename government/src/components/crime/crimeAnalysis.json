@@ -1,0 +1,2102 @@
+{
+    "Maharashtra": [
+        {
+            "YEAR": 2010,
+            "MURDER": 29,
+            "Sexual Assault": 37,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 68
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 71,
+            "Sexual Assault": 177,
+            "CUSTODIAL Assault": 44,
+            "OTHER Assault": 83
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 15,
+            "Sexual Assault": 78,
+            "CUSTODIAL Assault": 36,
+            "OTHER Assault": 126
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 82,
+            "Sexual Assault": 101,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 117
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 79,
+            "Sexual Assault": 124,
+            "CUSTODIAL Assault": 15,
+            "OTHER Assault": 61
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 77,
+            "Sexual Assault": 9,
+            "CUSTODIAL Assault": 29,
+            "OTHER Assault": 40
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 55,
+            "Sexual Assault": 76,
+            "CUSTODIAL Assault": 24,
+            "OTHER Assault": 148
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 44,
+            "Sexual Assault": 156,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 62
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 39,
+            "Sexual Assault": 147,
+            "CUSTODIAL Assault": 4,
+            "OTHER Assault": 123
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 77,
+            "Sexual Assault": 191,
+            "CUSTODIAL Assault": 47,
+            "OTHER Assault": 133
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 54,
+            "Sexual Assault": 177,
+            "CUSTODIAL Assault": 38,
+            "OTHER Assault": 93
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 46,
+            "Sexual Assault": 171,
+            "CUSTODIAL Assault": 20,
+            "OTHER Assault": 131
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 80,
+            "Sexual Assault": 103,
+            "CUSTODIAL Assault": 7,
+            "OTHER Assault": 38
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 24,
+            "Sexual Assault": 44,
+            "CUSTODIAL Assault": 3,
+            "OTHER Assault": 134
+        }
+    ],
+    "Delhi": [
+        {
+            "YEAR": 2010,
+            "MURDER": 86,
+            "Sexual Assault": 175,
+            "CUSTODIAL Assault": 28,
+            "OTHER Assault": 108
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 90,
+            "Sexual Assault": 14,
+            "CUSTODIAL Assault": 17,
+            "OTHER Assault": 47
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 62,
+            "Sexual Assault": 156,
+            "CUSTODIAL Assault": 29,
+            "OTHER Assault": 79
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 53,
+            "Sexual Assault": 161,
+            "CUSTODIAL Assault": 29,
+            "OTHER Assault": 125
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 10,
+            "Sexual Assault": 63,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 87
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 22,
+            "Sexual Assault": 101,
+            "CUSTODIAL Assault": 25,
+            "OTHER Assault": 76
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 51,
+            "Sexual Assault": 103,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 64
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 71,
+            "Sexual Assault": 176,
+            "CUSTODIAL Assault": 49,
+            "OTHER Assault": 96
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 100,
+            "Sexual Assault": 165,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 137
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 77,
+            "Sexual Assault": 130,
+            "CUSTODIAL Assault": 33,
+            "OTHER Assault": 35
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 75,
+            "Sexual Assault": 174,
+            "CUSTODIAL Assault": 25,
+            "OTHER Assault": 66
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 12,
+            "Sexual Assault": 32,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 111
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 65,
+            "Sexual Assault": 41,
+            "CUSTODIAL Assault": 27,
+            "OTHER Assault": 25
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 89,
+            "Sexual Assault": 150,
+            "CUSTODIAL Assault": 8,
+            "OTHER Assault": 105
+        }
+    ],
+    "Karnataka": [
+        {
+            "YEAR": 2010,
+            "MURDER": 25,
+            "Sexual Assault": 136,
+            "CUSTODIAL Assault": 44,
+            "OTHER Assault": 84
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 5,
+            "Sexual Assault": 153,
+            "CUSTODIAL Assault": 49,
+            "OTHER Assault": 140
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 37,
+            "Sexual Assault": 43,
+            "CUSTODIAL Assault": 5,
+            "OTHER Assault": 65
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 8,
+            "Sexual Assault": 37,
+            "CUSTODIAL Assault": 25,
+            "OTHER Assault": 138
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 14,
+            "Sexual Assault": 41,
+            "CUSTODIAL Assault": 38,
+            "OTHER Assault": 5
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 73,
+            "Sexual Assault": 149,
+            "CUSTODIAL Assault": 23,
+            "OTHER Assault": 46
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 33,
+            "Sexual Assault": 184,
+            "CUSTODIAL Assault": 15,
+            "OTHER Assault": 124
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 96,
+            "Sexual Assault": 15,
+            "CUSTODIAL Assault": 27,
+            "OTHER Assault": 138
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 56,
+            "Sexual Assault": 26,
+            "CUSTODIAL Assault": 38,
+            "OTHER Assault": 95
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 82,
+            "Sexual Assault": 8,
+            "CUSTODIAL Assault": 49,
+            "OTHER Assault": 12
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 69,
+            "Sexual Assault": 19,
+            "CUSTODIAL Assault": 3,
+            "OTHER Assault": 54
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 30,
+            "Sexual Assault": 166,
+            "CUSTODIAL Assault": 40,
+            "OTHER Assault": 133
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 69,
+            "Sexual Assault": 138,
+            "CUSTODIAL Assault": 15,
+            "OTHER Assault": 91
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 20,
+            "Sexual Assault": 156,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 139
+        }
+    ],
+    "West Bengal": [
+        {
+            "YEAR": 2010,
+            "MURDER": 78,
+            "Sexual Assault": 68,
+            "CUSTODIAL Assault": 24,
+            "OTHER Assault": 50
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 3,
+            "Sexual Assault": 139,
+            "CUSTODIAL Assault": 37,
+            "OTHER Assault": 62
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 23,
+            "Sexual Assault": 47,
+            "CUSTODIAL Assault": 46,
+            "OTHER Assault": 131
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 81,
+            "Sexual Assault": 86,
+            "CUSTODIAL Assault": 21,
+            "OTHER Assault": 114
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 13,
+            "Sexual Assault": 173,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 48
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 86,
+            "Sexual Assault": 111,
+            "CUSTODIAL Assault": 36,
+            "OTHER Assault": 35
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 75,
+            "Sexual Assault": 127,
+            "CUSTODIAL Assault": 14,
+            "OTHER Assault": 145
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 75,
+            "Sexual Assault": 134,
+            "CUSTODIAL Assault": 25,
+            "OTHER Assault": 129
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 28,
+            "Sexual Assault": 173,
+            "CUSTODIAL Assault": 42,
+            "OTHER Assault": 22
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 41,
+            "Sexual Assault": 163,
+            "CUSTODIAL Assault": 26,
+            "OTHER Assault": 130
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 74,
+            "Sexual Assault": 197,
+            "CUSTODIAL Assault": 0,
+            "OTHER Assault": 45
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 57,
+            "Sexual Assault": 8,
+            "CUSTODIAL Assault": 37,
+            "OTHER Assault": 22
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 47,
+            "Sexual Assault": 22,
+            "CUSTODIAL Assault": 5,
+            "OTHER Assault": 118
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 65,
+            "Sexual Assault": 86,
+            "CUSTODIAL Assault": 3,
+            "OTHER Assault": 47
+        }
+    ],
+    "Tamil Nadu": [
+        {
+            "YEAR": 2010,
+            "MURDER": 49,
+            "Sexual Assault": 197,
+            "CUSTODIAL Assault": 38,
+            "OTHER Assault": 14
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 60,
+            "Sexual Assault": 37,
+            "CUSTODIAL Assault": 42,
+            "OTHER Assault": 62
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 74,
+            "Sexual Assault": 42,
+            "CUSTODIAL Assault": 20,
+            "OTHER Assault": 102
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 89,
+            "Sexual Assault": 11,
+            "CUSTODIAL Assault": 42,
+            "OTHER Assault": 41
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 41,
+            "Sexual Assault": 185,
+            "CUSTODIAL Assault": 9,
+            "OTHER Assault": 52
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 62,
+            "Sexual Assault": 158,
+            "CUSTODIAL Assault": 17,
+            "OTHER Assault": 131
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 93,
+            "Sexual Assault": 105,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 74
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 38,
+            "Sexual Assault": 180,
+            "CUSTODIAL Assault": 37,
+            "OTHER Assault": 9
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 42,
+            "Sexual Assault": 148,
+            "CUSTODIAL Assault": 6,
+            "OTHER Assault": 71
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 13,
+            "Sexual Assault": 80,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 143
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 15,
+            "Sexual Assault": 67,
+            "CUSTODIAL Assault": 20,
+            "OTHER Assault": 36
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 87,
+            "Sexual Assault": 196,
+            "CUSTODIAL Assault": 45,
+            "OTHER Assault": 125
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 62,
+            "Sexual Assault": 8,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 142
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 61,
+            "Sexual Assault": 14,
+            "CUSTODIAL Assault": 21,
+            "OTHER Assault": 146
+        }
+    ],
+    "Telangana": [
+        {
+            "YEAR": 2010,
+            "MURDER": 100,
+            "Sexual Assault": 149,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 90
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 1,
+            "Sexual Assault": 114,
+            "CUSTODIAL Assault": 47,
+            "OTHER Assault": 120
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 40,
+            "Sexual Assault": 178,
+            "CUSTODIAL Assault": 49,
+            "OTHER Assault": 66
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 44,
+            "Sexual Assault": 132,
+            "CUSTODIAL Assault": 43,
+            "OTHER Assault": 111
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 44,
+            "Sexual Assault": 28,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 113
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 67,
+            "Sexual Assault": 117,
+            "CUSTODIAL Assault": 27,
+            "OTHER Assault": 52
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 95,
+            "Sexual Assault": 11,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 134
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 55,
+            "Sexual Assault": 140,
+            "CUSTODIAL Assault": 22,
+            "OTHER Assault": 32
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 48,
+            "Sexual Assault": 102,
+            "CUSTODIAL Assault": 44,
+            "OTHER Assault": 26
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 30,
+            "Sexual Assault": 74,
+            "CUSTODIAL Assault": 16,
+            "OTHER Assault": 144
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 35,
+            "Sexual Assault": 164,
+            "CUSTODIAL Assault": 23,
+            "OTHER Assault": 129
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 99,
+            "Sexual Assault": 83,
+            "CUSTODIAL Assault": 45,
+            "OTHER Assault": 63
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 35,
+            "Sexual Assault": 143,
+            "CUSTODIAL Assault": 37,
+            "OTHER Assault": 113
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 68,
+            "Sexual Assault": 170,
+            "CUSTODIAL Assault": 6,
+            "OTHER Assault": 99
+        }
+    ],
+    "Gujarat": [
+        {
+            "YEAR": 2010,
+            "MURDER": 50,
+            "Sexual Assault": 143,
+            "CUSTODIAL Assault": 16,
+            "OTHER Assault": 80
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 43,
+            "Sexual Assault": 175,
+            "CUSTODIAL Assault": 45,
+            "OTHER Assault": 141
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 52,
+            "Sexual Assault": 12,
+            "CUSTODIAL Assault": 44,
+            "OTHER Assault": 124
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 33,
+            "Sexual Assault": 17,
+            "CUSTODIAL Assault": 43,
+            "OTHER Assault": 107
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 18,
+            "Sexual Assault": 116,
+            "CUSTODIAL Assault": 29,
+            "OTHER Assault": 86
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 29,
+            "Sexual Assault": 19,
+            "CUSTODIAL Assault": 27,
+            "OTHER Assault": 128
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 10,
+            "Sexual Assault": 182,
+            "CUSTODIAL Assault": 22,
+            "OTHER Assault": 27
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 74,
+            "Sexual Assault": 65,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 92
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 60,
+            "Sexual Assault": 43,
+            "CUSTODIAL Assault": 47,
+            "OTHER Assault": 11
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 100,
+            "Sexual Assault": 14,
+            "CUSTODIAL Assault": 37,
+            "OTHER Assault": 104
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 54,
+            "Sexual Assault": 81,
+            "CUSTODIAL Assault": 45,
+            "OTHER Assault": 25
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 79,
+            "Sexual Assault": 9,
+            "CUSTODIAL Assault": 8,
+            "OTHER Assault": 28
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 7,
+            "Sexual Assault": 54,
+            "CUSTODIAL Assault": 22,
+            "OTHER Assault": 29
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 9,
+            "Sexual Assault": 32,
+            "CUSTODIAL Assault": 40,
+            "OTHER Assault": 68
+        }
+    ],
+    "Rajasthan": [
+        {
+            "YEAR": 2010,
+            "MURDER": 5,
+            "Sexual Assault": 82,
+            "CUSTODIAL Assault": 45,
+            "OTHER Assault": 23
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 91,
+            "Sexual Assault": 180,
+            "CUSTODIAL Assault": 37,
+            "OTHER Assault": 142
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 68,
+            "Sexual Assault": 182,
+            "CUSTODIAL Assault": 41,
+            "OTHER Assault": 66
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 58,
+            "Sexual Assault": 10,
+            "CUSTODIAL Assault": 31,
+            "OTHER Assault": 28
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 17,
+            "Sexual Assault": 116,
+            "CUSTODIAL Assault": 20,
+            "OTHER Assault": 81
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 81,
+            "Sexual Assault": 0,
+            "CUSTODIAL Assault": 1,
+            "OTHER Assault": 12
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 34,
+            "Sexual Assault": 55,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 47
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 92,
+            "Sexual Assault": 150,
+            "CUSTODIAL Assault": 14,
+            "OTHER Assault": 134
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 13,
+            "Sexual Assault": 69,
+            "CUSTODIAL Assault": 1,
+            "OTHER Assault": 97
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 46,
+            "Sexual Assault": 151,
+            "CUSTODIAL Assault": 23,
+            "OTHER Assault": 47
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 92,
+            "Sexual Assault": 72,
+            "CUSTODIAL Assault": 34,
+            "OTHER Assault": 128
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 11,
+            "Sexual Assault": 128,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 45
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 33,
+            "Sexual Assault": 153,
+            "CUSTODIAL Assault": 34,
+            "OTHER Assault": 101
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 74,
+            "Sexual Assault": 63,
+            "CUSTODIAL Assault": 33,
+            "OTHER Assault": 10
+        }
+    ],
+    "Uttar Pradesh": [
+        {
+            "YEAR": 2010,
+            "MURDER": 18,
+            "Sexual Assault": 41,
+            "CUSTODIAL Assault": 2,
+            "OTHER Assault": 139
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 59,
+            "Sexual Assault": 18,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 120
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 0,
+            "Sexual Assault": 139,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 120
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 91,
+            "Sexual Assault": 10,
+            "CUSTODIAL Assault": 36,
+            "OTHER Assault": 75
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 6,
+            "Sexual Assault": 167,
+            "CUSTODIAL Assault": 27,
+            "OTHER Assault": 140
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 18,
+            "Sexual Assault": 12,
+            "CUSTODIAL Assault": 34,
+            "OTHER Assault": 101
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 14,
+            "Sexual Assault": 187,
+            "CUSTODIAL Assault": 13,
+            "OTHER Assault": 127
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 1,
+            "Sexual Assault": 49,
+            "CUSTODIAL Assault": 43,
+            "OTHER Assault": 23
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 7,
+            "Sexual Assault": 177,
+            "CUSTODIAL Assault": 17,
+            "OTHER Assault": 21
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 34,
+            "Sexual Assault": 195,
+            "CUSTODIAL Assault": 8,
+            "OTHER Assault": 32
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 0,
+            "Sexual Assault": 76,
+            "CUSTODIAL Assault": 47,
+            "OTHER Assault": 115
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 59,
+            "Sexual Assault": 177,
+            "CUSTODIAL Assault": 38,
+            "OTHER Assault": 14
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 15,
+            "Sexual Assault": 16,
+            "CUSTODIAL Assault": 8,
+            "OTHER Assault": 73
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 0,
+            "Sexual Assault": 95,
+            "CUSTODIAL Assault": 17,
+            "OTHER Assault": 146
+        }
+    ],
+    "Madhya Pradesh": [
+        {
+            "YEAR": 2010,
+            "MURDER": 40,
+            "Sexual Assault": 28,
+            "CUSTODIAL Assault": 31,
+            "OTHER Assault": 20
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 62,
+            "Sexual Assault": 98,
+            "CUSTODIAL Assault": 34,
+            "OTHER Assault": 146
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 33,
+            "Sexual Assault": 148,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 48
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 21,
+            "Sexual Assault": 43,
+            "CUSTODIAL Assault": 4,
+            "OTHER Assault": 72
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 1,
+            "Sexual Assault": 61,
+            "CUSTODIAL Assault": 7,
+            "OTHER Assault": 9
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 80,
+            "Sexual Assault": 115,
+            "CUSTODIAL Assault": 50,
+            "OTHER Assault": 38
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 8,
+            "Sexual Assault": 118,
+            "CUSTODIAL Assault": 24,
+            "OTHER Assault": 10
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 44,
+            "Sexual Assault": 43,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 37
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 60,
+            "Sexual Assault": 95,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 87
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 53,
+            "Sexual Assault": 72,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 123
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 1,
+            "Sexual Assault": 6,
+            "CUSTODIAL Assault": 1,
+            "OTHER Assault": 120
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 12,
+            "Sexual Assault": 116,
+            "CUSTODIAL Assault": 29,
+            "OTHER Assault": 85
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 21,
+            "Sexual Assault": 175,
+            "CUSTODIAL Assault": 18,
+            "OTHER Assault": 112
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 68,
+            "Sexual Assault": 105,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 92
+        }
+    ],
+    "Punjab": [
+        {
+            "YEAR": 2010,
+            "MURDER": 63,
+            "Sexual Assault": 127,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 150
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 51,
+            "Sexual Assault": 71,
+            "CUSTODIAL Assault": 0,
+            "OTHER Assault": 132
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 20,
+            "Sexual Assault": 199,
+            "CUSTODIAL Assault": 20,
+            "OTHER Assault": 126
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 77,
+            "Sexual Assault": 17,
+            "CUSTODIAL Assault": 17,
+            "OTHER Assault": 30
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 49,
+            "Sexual Assault": 158,
+            "CUSTODIAL Assault": 43,
+            "OTHER Assault": 23
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 32,
+            "Sexual Assault": 89,
+            "CUSTODIAL Assault": 42,
+            "OTHER Assault": 89
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 48,
+            "Sexual Assault": 27,
+            "CUSTODIAL Assault": 0,
+            "OTHER Assault": 147
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 53,
+            "Sexual Assault": 133,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 61
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 6,
+            "Sexual Assault": 39,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 67
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 47,
+            "Sexual Assault": 189,
+            "CUSTODIAL Assault": 22,
+            "OTHER Assault": 104
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 82,
+            "Sexual Assault": 169,
+            "CUSTODIAL Assault": 31,
+            "OTHER Assault": 65
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 32,
+            "Sexual Assault": 49,
+            "CUSTODIAL Assault": 1,
+            "OTHER Assault": 129
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 72,
+            "Sexual Assault": 106,
+            "CUSTODIAL Assault": 38,
+            "OTHER Assault": 128
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 56,
+            "Sexual Assault": 136,
+            "CUSTODIAL Assault": 23,
+            "OTHER Assault": 24
+        }
+    ],
+    "Haryana": [
+        {
+            "YEAR": 2010,
+            "MURDER": 43,
+            "Sexual Assault": 74,
+            "CUSTODIAL Assault": 4,
+            "OTHER Assault": 21
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 19,
+            "Sexual Assault": 92,
+            "CUSTODIAL Assault": 42,
+            "OTHER Assault": 117
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 59,
+            "Sexual Assault": 45,
+            "CUSTODIAL Assault": 37,
+            "OTHER Assault": 147
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 77,
+            "Sexual Assault": 75,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 61
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 48,
+            "Sexual Assault": 21,
+            "CUSTODIAL Assault": 9,
+            "OTHER Assault": 32
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 74,
+            "Sexual Assault": 122,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 58
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 20,
+            "Sexual Assault": 111,
+            "CUSTODIAL Assault": 44,
+            "OTHER Assault": 49
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 56,
+            "Sexual Assault": 0,
+            "CUSTODIAL Assault": 26,
+            "OTHER Assault": 24
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 4,
+            "Sexual Assault": 147,
+            "CUSTODIAL Assault": 42,
+            "OTHER Assault": 79
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 96,
+            "Sexual Assault": 33,
+            "CUSTODIAL Assault": 28,
+            "OTHER Assault": 115
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 19,
+            "Sexual Assault": 6,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 124
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 68,
+            "Sexual Assault": 65,
+            "CUSTODIAL Assault": 42,
+            "OTHER Assault": 73
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 97,
+            "Sexual Assault": 46,
+            "CUSTODIAL Assault": 47,
+            "OTHER Assault": 48
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 7,
+            "Sexual Assault": 126,
+            "CUSTODIAL Assault": 48,
+            "OTHER Assault": 78
+        }
+    ],
+    "Kerala": [
+        {
+            "YEAR": 2010,
+            "MURDER": 49,
+            "Sexual Assault": 93,
+            "CUSTODIAL Assault": 39,
+            "OTHER Assault": 112
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 12,
+            "Sexual Assault": 37,
+            "CUSTODIAL Assault": 9,
+            "OTHER Assault": 92
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 53,
+            "Sexual Assault": 178,
+            "CUSTODIAL Assault": 13,
+            "OTHER Assault": 100
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 6,
+            "Sexual Assault": 94,
+            "CUSTODIAL Assault": 44,
+            "OTHER Assault": 41
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 67,
+            "Sexual Assault": 59,
+            "CUSTODIAL Assault": 18,
+            "OTHER Assault": 70
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 85,
+            "Sexual Assault": 81,
+            "CUSTODIAL Assault": 15,
+            "OTHER Assault": 44
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 98,
+            "Sexual Assault": 73,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 101
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 63,
+            "Sexual Assault": 111,
+            "CUSTODIAL Assault": 5,
+            "OTHER Assault": 11
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 91,
+            "Sexual Assault": 164,
+            "CUSTODIAL Assault": 49,
+            "OTHER Assault": 75
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 62,
+            "Sexual Assault": 124,
+            "CUSTODIAL Assault": 6,
+            "OTHER Assault": 64
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 99,
+            "Sexual Assault": 193,
+            "CUSTODIAL Assault": 45,
+            "OTHER Assault": 44
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 95,
+            "Sexual Assault": 141,
+            "CUSTODIAL Assault": 50,
+            "OTHER Assault": 111
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 100,
+            "Sexual Assault": 40,
+            "CUSTODIAL Assault": 49,
+            "OTHER Assault": 111
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 19,
+            "Sexual Assault": 140,
+            "CUSTODIAL Assault": 16,
+            "OTHER Assault": 42
+        }
+    ],
+    "Odisha": [
+        {
+            "YEAR": 2010,
+            "MURDER": 42,
+            "Sexual Assault": 97,
+            "CUSTODIAL Assault": 48,
+            "OTHER Assault": 141
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 73,
+            "Sexual Assault": 11,
+            "CUSTODIAL Assault": 5,
+            "OTHER Assault": 76
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 20,
+            "Sexual Assault": 126,
+            "CUSTODIAL Assault": 14,
+            "OTHER Assault": 96
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 90,
+            "Sexual Assault": 78,
+            "CUSTODIAL Assault": 4,
+            "OTHER Assault": 109
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 10,
+            "Sexual Assault": 15,
+            "CUSTODIAL Assault": 15,
+            "OTHER Assault": 137
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 12,
+            "Sexual Assault": 44,
+            "CUSTODIAL Assault": 6,
+            "OTHER Assault": 60
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 19,
+            "Sexual Assault": 182,
+            "CUSTODIAL Assault": 46,
+            "OTHER Assault": 107
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 15,
+            "Sexual Assault": 194,
+            "CUSTODIAL Assault": 36,
+            "OTHER Assault": 123
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 23,
+            "Sexual Assault": 174,
+            "CUSTODIAL Assault": 31,
+            "OTHER Assault": 52
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 87,
+            "Sexual Assault": 117,
+            "CUSTODIAL Assault": 26,
+            "OTHER Assault": 29
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 8,
+            "Sexual Assault": 68,
+            "CUSTODIAL Assault": 40,
+            "OTHER Assault": 128
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 29,
+            "Sexual Assault": 179,
+            "CUSTODIAL Assault": 4,
+            "OTHER Assault": 145
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 49,
+            "Sexual Assault": 10,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 92
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 69,
+            "Sexual Assault": 108,
+            "CUSTODIAL Assault": 2,
+            "OTHER Assault": 122
+        }
+    ],
+    "Bihar": [
+        {
+            "YEAR": 2010,
+            "MURDER": 66,
+            "Sexual Assault": 116,
+            "CUSTODIAL Assault": 33,
+            "OTHER Assault": 20
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 89,
+            "Sexual Assault": 91,
+            "CUSTODIAL Assault": 36,
+            "OTHER Assault": 43
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 40,
+            "Sexual Assault": 134,
+            "CUSTODIAL Assault": 1,
+            "OTHER Assault": 141
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 41,
+            "Sexual Assault": 142,
+            "CUSTODIAL Assault": 16,
+            "OTHER Assault": 103
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 79,
+            "Sexual Assault": 197,
+            "CUSTODIAL Assault": 14,
+            "OTHER Assault": 55
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 12,
+            "Sexual Assault": 153,
+            "CUSTODIAL Assault": 25,
+            "OTHER Assault": 83
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 98,
+            "Sexual Assault": 96,
+            "CUSTODIAL Assault": 37,
+            "OTHER Assault": 38
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 99,
+            "Sexual Assault": 35,
+            "CUSTODIAL Assault": 0,
+            "OTHER Assault": 4
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 98,
+            "Sexual Assault": 27,
+            "CUSTODIAL Assault": 3,
+            "OTHER Assault": 145
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 74,
+            "Sexual Assault": 3,
+            "CUSTODIAL Assault": 5,
+            "OTHER Assault": 15
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 64,
+            "Sexual Assault": 179,
+            "CUSTODIAL Assault": 20,
+            "OTHER Assault": 146
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 16,
+            "Sexual Assault": 16,
+            "CUSTODIAL Assault": 34,
+            "OTHER Assault": 140
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 30,
+            "Sexual Assault": 65,
+            "CUSTODIAL Assault": 6,
+            "OTHER Assault": 115
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 29,
+            "Sexual Assault": 105,
+            "CUSTODIAL Assault": 7,
+            "OTHER Assault": 42
+        }
+    ],
+    "Assam": [
+        {
+            "YEAR": 2010,
+            "MURDER": 22,
+            "Sexual Assault": 63,
+            "CUSTODIAL Assault": 1,
+            "OTHER Assault": 54
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 30,
+            "Sexual Assault": 1,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 131
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 82,
+            "Sexual Assault": 15,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 91
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 17,
+            "Sexual Assault": 194,
+            "CUSTODIAL Assault": 8,
+            "OTHER Assault": 136
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 66,
+            "Sexual Assault": 184,
+            "CUSTODIAL Assault": 27,
+            "OTHER Assault": 118
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 23,
+            "Sexual Assault": 174,
+            "CUSTODIAL Assault": 2,
+            "OTHER Assault": 38
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 5,
+            "Sexual Assault": 200,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 37
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 10,
+            "Sexual Assault": 76,
+            "CUSTODIAL Assault": 24,
+            "OTHER Assault": 136
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 23,
+            "Sexual Assault": 158,
+            "CUSTODIAL Assault": 34,
+            "OTHER Assault": 26
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 41,
+            "Sexual Assault": 183,
+            "CUSTODIAL Assault": 3,
+            "OTHER Assault": 21
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 6,
+            "Sexual Assault": 168,
+            "CUSTODIAL Assault": 9,
+            "OTHER Assault": 43
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 35,
+            "Sexual Assault": 182,
+            "CUSTODIAL Assault": 6,
+            "OTHER Assault": 134
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 0,
+            "Sexual Assault": 196,
+            "CUSTODIAL Assault": 46,
+            "OTHER Assault": 8
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 96,
+            "Sexual Assault": 96,
+            "CUSTODIAL Assault": 32,
+            "OTHER Assault": 83
+        }
+    ],
+    "Chhattisgarh": [
+        {
+            "YEAR": 2010,
+            "MURDER": 18,
+            "Sexual Assault": 131,
+            "CUSTODIAL Assault": 8,
+            "OTHER Assault": 143
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 14,
+            "Sexual Assault": 132,
+            "CUSTODIAL Assault": 17,
+            "OTHER Assault": 97
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 27,
+            "Sexual Assault": 60,
+            "CUSTODIAL Assault": 8,
+            "OTHER Assault": 10
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 59,
+            "Sexual Assault": 123,
+            "CUSTODIAL Assault": 49,
+            "OTHER Assault": 20
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 97,
+            "Sexual Assault": 171,
+            "CUSTODIAL Assault": 8,
+            "OTHER Assault": 112
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 5,
+            "Sexual Assault": 48,
+            "CUSTODIAL Assault": 45,
+            "OTHER Assault": 86
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 73,
+            "Sexual Assault": 125,
+            "CUSTODIAL Assault": 31,
+            "OTHER Assault": 122
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 52,
+            "Sexual Assault": 98,
+            "CUSTODIAL Assault": 21,
+            "OTHER Assault": 14
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 51,
+            "Sexual Assault": 113,
+            "CUSTODIAL Assault": 40,
+            "OTHER Assault": 145
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 89,
+            "Sexual Assault": 127,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 145
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 33,
+            "Sexual Assault": 156,
+            "CUSTODIAL Assault": 32,
+            "OTHER Assault": 42
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 78,
+            "Sexual Assault": 73,
+            "CUSTODIAL Assault": 12,
+            "OTHER Assault": 63
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 11,
+            "Sexual Assault": 68,
+            "CUSTODIAL Assault": 27,
+            "OTHER Assault": 49
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 62,
+            "Sexual Assault": 33,
+            "CUSTODIAL Assault": 30,
+            "OTHER Assault": 139
+        }
+    ],
+    "Jharkhand": [
+        {
+            "YEAR": 2010,
+            "MURDER": 76,
+            "Sexual Assault": 101,
+            "CUSTODIAL Assault": 36,
+            "OTHER Assault": 80
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 1,
+            "Sexual Assault": 179,
+            "CUSTODIAL Assault": 1,
+            "OTHER Assault": 111
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 49,
+            "Sexual Assault": 198,
+            "CUSTODIAL Assault": 2,
+            "OTHER Assault": 4
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 96,
+            "Sexual Assault": 33,
+            "CUSTODIAL Assault": 22,
+            "OTHER Assault": 126
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 3,
+            "Sexual Assault": 82,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 26
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 23,
+            "Sexual Assault": 131,
+            "CUSTODIAL Assault": 3,
+            "OTHER Assault": 132
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 92,
+            "Sexual Assault": 176,
+            "CUSTODIAL Assault": 10,
+            "OTHER Assault": 117
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 99,
+            "Sexual Assault": 113,
+            "CUSTODIAL Assault": 36,
+            "OTHER Assault": 114
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 96,
+            "Sexual Assault": 134,
+            "CUSTODIAL Assault": 4,
+            "OTHER Assault": 25
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 2,
+            "Sexual Assault": 34,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 89
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 78,
+            "Sexual Assault": 163,
+            "CUSTODIAL Assault": 48,
+            "OTHER Assault": 36
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 100,
+            "Sexual Assault": 0,
+            "CUSTODIAL Assault": 22,
+            "OTHER Assault": 12
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 44,
+            "Sexual Assault": 193,
+            "CUSTODIAL Assault": 36,
+            "OTHER Assault": 15
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 53,
+            "Sexual Assault": 61,
+            "CUSTODIAL Assault": 30,
+            "OTHER Assault": 52
+        }
+    ],
+    "Himachal Pradesh": [
+        {
+            "YEAR": 2010,
+            "MURDER": 81,
+            "Sexual Assault": 14,
+            "CUSTODIAL Assault": 17,
+            "OTHER Assault": 137
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 15,
+            "Sexual Assault": 130,
+            "CUSTODIAL Assault": 38,
+            "OTHER Assault": 78
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 20,
+            "Sexual Assault": 36,
+            "CUSTODIAL Assault": 28,
+            "OTHER Assault": 138
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 99,
+            "Sexual Assault": 121,
+            "CUSTODIAL Assault": 11,
+            "OTHER Assault": 33
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 28,
+            "Sexual Assault": 139,
+            "CUSTODIAL Assault": 14,
+            "OTHER Assault": 26
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 67,
+            "Sexual Assault": 52,
+            "CUSTODIAL Assault": 14,
+            "OTHER Assault": 115
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 44,
+            "Sexual Assault": 15,
+            "CUSTODIAL Assault": 24,
+            "OTHER Assault": 78
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 9,
+            "Sexual Assault": 125,
+            "CUSTODIAL Assault": 34,
+            "OTHER Assault": 33
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 43,
+            "Sexual Assault": 197,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 138
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 5,
+            "Sexual Assault": 96,
+            "CUSTODIAL Assault": 13,
+            "OTHER Assault": 130
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 32,
+            "Sexual Assault": 124,
+            "CUSTODIAL Assault": 4,
+            "OTHER Assault": 105
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 85,
+            "Sexual Assault": 151,
+            "CUSTODIAL Assault": 20,
+            "OTHER Assault": 83
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 82,
+            "Sexual Assault": 88,
+            "CUSTODIAL Assault": 46,
+            "OTHER Assault": 91
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 12,
+            "Sexual Assault": 79,
+            "CUSTODIAL Assault": 40,
+            "OTHER Assault": 16
+        }
+    ],
+    "Uttarakhand": [
+        {
+            "YEAR": 2010,
+            "MURDER": 0,
+            "Sexual Assault": 189,
+            "CUSTODIAL Assault": 26,
+            "OTHER Assault": 70
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 41,
+            "Sexual Assault": 155,
+            "CUSTODIAL Assault": 0,
+            "OTHER Assault": 100
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 76,
+            "Sexual Assault": 48,
+            "CUSTODIAL Assault": 24,
+            "OTHER Assault": 2
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 14,
+            "Sexual Assault": 8,
+            "CUSTODIAL Assault": 30,
+            "OTHER Assault": 134
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 49,
+            "Sexual Assault": 169,
+            "CUSTODIAL Assault": 40,
+            "OTHER Assault": 0
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 54,
+            "Sexual Assault": 183,
+            "CUSTODIAL Assault": 0,
+            "OTHER Assault": 129
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 9,
+            "Sexual Assault": 65,
+            "CUSTODIAL Assault": 46,
+            "OTHER Assault": 76
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 97,
+            "Sexual Assault": 34,
+            "CUSTODIAL Assault": 39,
+            "OTHER Assault": 100
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 34,
+            "Sexual Assault": 156,
+            "CUSTODIAL Assault": 27,
+            "OTHER Assault": 35
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 73,
+            "Sexual Assault": 59,
+            "CUSTODIAL Assault": 14,
+            "OTHER Assault": 15
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 32,
+            "Sexual Assault": 87,
+            "CUSTODIAL Assault": 22,
+            "OTHER Assault": 72
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 50,
+            "Sexual Assault": 154,
+            "CUSTODIAL Assault": 4,
+            "OTHER Assault": 49
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 31,
+            "Sexual Assault": 182,
+            "CUSTODIAL Assault": 17,
+            "OTHER Assault": 137
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 31,
+            "Sexual Assault": 177,
+            "CUSTODIAL Assault": 19,
+            "OTHER Assault": 148
+        }
+    ],
+    "Goa": [
+        {
+            "YEAR": 2010,
+            "MURDER": 35,
+            "Sexual Assault": 175,
+            "CUSTODIAL Assault": 36,
+            "OTHER Assault": 67
+        },
+        {
+            "YEAR": 2011,
+            "MURDER": 75,
+            "Sexual Assault": 0,
+            "CUSTODIAL Assault": 40,
+            "OTHER Assault": 10
+        },
+        {
+            "YEAR": 2012,
+            "MURDER": 50,
+            "Sexual Assault": 107,
+            "CUSTODIAL Assault": 47,
+            "OTHER Assault": 49
+        },
+        {
+            "YEAR": 2013,
+            "MURDER": 16,
+            "Sexual Assault": 23,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 49
+        },
+        {
+            "YEAR": 2014,
+            "MURDER": 49,
+            "Sexual Assault": 175,
+            "CUSTODIAL Assault": 27,
+            "OTHER Assault": 54
+        },
+        {
+            "YEAR": 2015,
+            "MURDER": 85,
+            "Sexual Assault": 32,
+            "CUSTODIAL Assault": 37,
+            "OTHER Assault": 43
+        },
+        {
+            "YEAR": 2016,
+            "MURDER": 0,
+            "Sexual Assault": 197,
+            "CUSTODIAL Assault": 38,
+            "OTHER Assault": 100
+        },
+        {
+            "YEAR": 2017,
+            "MURDER": 86,
+            "Sexual Assault": 68,
+            "CUSTODIAL Assault": 34,
+            "OTHER Assault": 20
+        },
+        {
+            "YEAR": 2018,
+            "MURDER": 100,
+            "Sexual Assault": 119,
+            "CUSTODIAL Assault": 2,
+            "OTHER Assault": 84
+        },
+        {
+            "YEAR": 2019,
+            "MURDER": 55,
+            "Sexual Assault": 1,
+            "CUSTODIAL Assault": 15,
+            "OTHER Assault": 99
+        },
+        {
+            "YEAR": 2020,
+            "MURDER": 93,
+            "Sexual Assault": 38,
+            "CUSTODIAL Assault": 49,
+            "OTHER Assault": 7
+        },
+        {
+            "YEAR": 2021,
+            "MURDER": 95,
+            "Sexual Assault": 82,
+            "CUSTODIAL Assault": 35,
+            "OTHER Assault": 89
+        },
+        {
+            "YEAR": 2022,
+            "MURDER": 86,
+            "Sexual Assault": 176,
+            "CUSTODIAL Assault": 48,
+            "OTHER Assault": 0
+        },
+        {
+            "YEAR": 2023,
+            "MURDER": 50,
+            "Sexual Assault": 68,
+            "CUSTODIAL Assault": 0,
+            "OTHER Assault": 123
+        }
+    ]
+}
